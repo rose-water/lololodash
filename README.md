@@ -1,0 +1,1 @@
+answers to exercises from the [lololodash](https://github.com/mdunisch/lololodash) workshopper
